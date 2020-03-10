@@ -6,6 +6,7 @@ export default class Home extends React.Component {
     return(
       <View>
       <Text>Hello Home</Text>
+      <Text>Added text in GitHub</Text>
       </View>
     );
   }
